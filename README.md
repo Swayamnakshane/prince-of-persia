@@ -1,6 +1,3 @@
-Absolutely! Here's a full **technical blog post** titled around **"Prince of Persia"**, modeled in the same style as your Snake Game blog. This time, we'll show how to **prototype a platformer like Prince of Persia** using **Amazon Q CLI** and **Pygame**, all on **Linux** — with your personal story and a thank-you to Shafraz Rahim included.
-
----
 
 # 👑 Building a Prince of Persia-Inspired Platformer with Amazon Q CLI & Pygame on Linux
 
